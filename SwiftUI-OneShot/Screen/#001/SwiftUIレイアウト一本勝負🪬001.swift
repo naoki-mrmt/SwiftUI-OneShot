@@ -1,5 +1,5 @@
 //
-//  OneShotView001.swift
+//  SwiftUIレイアウト一本勝負🪬001.swift
 //  SwiftUI-OneShot
 //
 //  Created by Naoki on 2022/07/14.
