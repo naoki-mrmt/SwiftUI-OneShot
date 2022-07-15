@@ -11,7 +11,7 @@
 		88C755BA287F9821004F1D13 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C755B9287F9821004F1D13 /* ContentView.swift */; };
 		88C755BC287F9822004F1D13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88C755BB287F9822004F1D13 /* Assets.xcassets */; };
 		88C755BF287F9822004F1D13 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88C755BE287F9822004F1D13 /* Preview Assets.xcassets */; };
-		88C755CB287F9FB7004F1D13 /* SwiftUIレイアウト1本勝負🪬001.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C755CA287F9FB7004F1D13 /* SwiftUIレイアウト1本勝負🪬001.swift */; };
+		88C755CB287F9FB7004F1D13 /* SwiftUIレイアウト一本勝負🪬001.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C755CA287F9FB7004F1D13 /* SwiftUIレイアウト一本勝負🪬001.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +20,7 @@
 		88C755B9287F9821004F1D13 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		88C755BB287F9822004F1D13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88C755BE287F9822004F1D13 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		88C755CA287F9FB7004F1D13 /* SwiftUIレイアウト1本勝負🪬001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIレイアウト1本勝負🪬001.swift"; sourceTree = "<group>"; };
+		88C755CA287F9FB7004F1D13 /* SwiftUIレイアウト一本勝負🪬001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUIレイアウト一本勝負🪬001.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +80,7 @@
 		88C755C8287F9DB2004F1D13 /* #001 */ = {
 			isa = PBXGroup;
 			children = (
-				88C755CA287F9FB7004F1D13 /* SwiftUIレイアウト1本勝負🪬001.swift */,
+				88C755CA287F9FB7004F1D13 /* SwiftUIレイアウト一本勝負🪬001.swift */,
 			);
 			path = "#001";
 			sourceTree = "<group>";
@@ -164,7 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88C755CB287F9FB7004F1D13 /* SwiftUIレイアウト1本勝負🪬001.swift in Sources */,
+				88C755CB287F9FB7004F1D13 /* SwiftUIレイアウト一本勝負🪬001.swift in Sources */,
 				88C755BA287F9821004F1D13 /* ContentView.swift in Sources */,
 				88C755B8287F9821004F1D13 /* SwiftUI_OneShotApp.swift in Sources */,
 			);

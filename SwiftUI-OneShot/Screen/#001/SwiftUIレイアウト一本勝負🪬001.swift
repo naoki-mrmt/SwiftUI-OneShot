@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct SwiftUIレイアウト1本勝負🪬001: View {
+struct SwiftUIレイアウト一本勝負🪬001: View {
     // MARK: - Prperties
     private let text = "Hello, World! Helloooo!"
 
@@ -34,9 +34,9 @@ struct SwiftUIレイアウト1本勝負🪬001: View {
 
 struct SwiftUIレイアウト1本勝負🪬001_preview: PreviewProvider {
     static var previews: some View {
-        SwiftUIレイアウト1本勝負🪬001()
+        SwiftUIレイアウト一本勝負🪬001()
             .previewDisplayName("iPhone 13 Pro Max")
             .previewDevice(PreviewDevice(rawValue: "iPhone 13 Pro Max"))
-        SwiftUIレイアウト1本勝負🪬001()
+        SwiftUIレイアウト一本勝負🪬001()
     }
 }
