@@ -2,7 +2,7 @@
 //  SwiftUI_OneShotApp.swift
 //  SwiftUI-OneShot
 //
-//  Created by Naoki Muramoto on 2022/07/14.
+//  Created by Naoki on 2022/07/14.
 //
 
 import SwiftUI
